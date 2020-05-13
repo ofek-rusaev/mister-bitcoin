@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mister-bitcoin/static/css/main.9ff851dd.chunk.css",
+    "main.js": "/mister-bitcoin/static/js/main.9d380d5e.chunk.js",
+    "main.js.map": "/mister-bitcoin/static/js/main.9d380d5e.chunk.js.map",
+    "runtime-main.js": "/mister-bitcoin/static/js/runtime-main.14e612e5.js",
+    "runtime-main.js.map": "/mister-bitcoin/static/js/runtime-main.14e612e5.js.map",
+    "static/js/2.ca193887.chunk.js": "/mister-bitcoin/static/js/2.ca193887.chunk.js",
+    "static/js/2.ca193887.chunk.js.map": "/mister-bitcoin/static/js/2.ca193887.chunk.js.map",
+    "index.html": "/mister-bitcoin/index.html",
+    "precache-manifest.d800a5651e23f7632dacdf5a171b8820.js": "/mister-bitcoin/precache-manifest.d800a5651e23f7632dacdf5a171b8820.js",
+    "service-worker.js": "/mister-bitcoin/service-worker.js",
+    "static/css/main.9ff851dd.chunk.css.map": "/mister-bitcoin/static/css/main.9ff851dd.chunk.css.map",
+    "static/js/2.ca193887.chunk.js.LICENSE.txt": "/mister-bitcoin/static/js/2.ca193887.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14e612e5.js",
+    "static/js/2.ca193887.chunk.js",
+    "static/css/main.9ff851dd.chunk.css",
+    "static/js/main.9d380d5e.chunk.js"
+  ]
+}
